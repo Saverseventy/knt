@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://honortv-stream.netlify.app/cg1_epg.xml, https://honortv-stream.netlify.app/cg2_epg.xml.gz, https://hmtdflix-playlist-free.netlify.app/epg.xml"  refresh="3600" billed-msg="WELCOME TO VIP PLAYLIST,Use Search Bar to Find Your Movies You Want To Watch" 
+#EXTM3U url-tvg="https://honortv-stream.netlify.app/cg1_epg.xml, https://honortv-stream.netlify.app/cg2_epg.xml.gz, https://hmtdflix-playlist-free.netlify.app/epg.xml"  refresh="3600" billed-msg="WELCOME TO KONEK TV" 
 
 
 #EXTINF:0 CUID="5121" tvg-name="0. JUST FOR LAUGH GAGS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdXyeXdiHqj_zuNNnBZDfFgEJocLF9acvprw86Khq_dPQoTSqcsNr-yc&s=10" group-title="🇵🇭 PHILIPPINES CHANNEL",JUST FOR LAUGH GAGS
